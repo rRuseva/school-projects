@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1384107728 source:e:\radi\dropbox\fmi\2 kurs\okg\homework\kanji\kanji.c
+	<stdlib.h>
+	<math.h>
+	<GL/glfw.h>
+	<math.h>
+	<stdbool.h>
+
+1281274624 c:\program files (x86)\codeblocks\plugins\glfw-2.7.bin.win32\include\gl\glfw.h
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
