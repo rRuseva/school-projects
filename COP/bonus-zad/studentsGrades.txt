@@ -1,0 +1,8 @@
+Names: Radina Ruseva;Faculty Number: 146528;Sex: Female;Grades: 6,5,3,4,2,6,6;
+Names: Deqn Rusev;Faculty Number: 146529;Sex: Male;Grades: 2,3,6,5,4,6,5,6,5,6;
+Names: Some other;Faculty Number: 123;Sex: Male;Grades: 4,5,6,7;
+Names: sada adasdsa;Faculty Number: 148;Sex: Female;Grades: 5,2,3,6,4,2,5;
+Names: sadasd dasd;Faculty Number: 234;Sex: Female;Grades: 3;
+Names: Ivan nqkoisi;Faculty Number: 123;Sex: Male;Grades: 5,6,4,6,6,5,6;
+Names: Some Other;Faculty Number: 1234;Sex: Male;Grades: 5,2,3,5,6;
+Names: Nqkoisi Ivan;Faculty Number: 123456;Sex: Male;Grades: 4,5,6,2,3;
