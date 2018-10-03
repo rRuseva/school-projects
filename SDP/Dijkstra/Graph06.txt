@@ -1,0 +1,17 @@
+directed
+weight
+A B C D E F G H
+A-E-4
+B-C-5
+B-F-5
+B-G-3
+C-A-1
+C-E-2
+C-F-2
+D-H-8
+E-G-8
+F-G-6
+G-C-8
+G-E-5
+G-F-9
+G-H-8

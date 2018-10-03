@@ -1,0 +1,5 @@
+﻿  Dijkstra.cpp
+d:\radi\myprojects\school-projects\sdp\dijkstra\dijkstra\dijkstra.cpp(69): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\radi\myprojects\school-projects\sdp\dijkstra\dijkstra\dijkstra.cpp(114): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Dijkstra.vcxproj -> D:\Radi\MyProjects\School-Projects\SDP\Dijkstra\x64\Debug\Dijkstra.exe
+  Dijkstra.vcxproj -> D:\Radi\MyProjects\School-Projects\SDP\Dijkstra\x64\Debug\Dijkstra.pdb (Full PDB)

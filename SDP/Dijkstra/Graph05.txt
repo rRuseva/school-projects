@@ -1,0 +1,15 @@
+directed
+weight
+Adc Bfv Cgt Dwe Ear Fact Gid 
+Adc-Bfv-2
+Adc-Dwe-1
+Bfv-Dwe-3
+Bfv-Ear-10
+Cgt-Adc-4
+Cgt-Fact-5
+Dwe-Cgt-2
+Dwe-Ear-2
+Dwe-Fact-8
+Dwe-Gid-4
+Ear-Gid-1
+Gid-Fact-1

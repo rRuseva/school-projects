@@ -1,0 +1,13 @@
+undirected
+not weighted
+A B C D E F
+A-B
+
+A-E
+
+A-F
+B-C
+B-D
+C-D
+D-E
+E-F
