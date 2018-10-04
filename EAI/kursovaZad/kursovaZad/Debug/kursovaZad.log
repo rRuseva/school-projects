@@ -1,0 +1,6 @@
+﻿  kursovaZad.c
+d:\radi\myprojects\school-projects\eai\kursovazad\kursovazad\kursovazad.c(132): warning C4018: '<': signed/unsigned mismatch
+d:\radi\myprojects\school-projects\eai\kursovazad\kursovazad\kursovazad.c(149): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\radi\myprojects\school-projects\eai\kursovazad\kursovazad\kursovazad.c(285): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  kursovaZad.vcxproj -> D:\Radi\MyProjects\School-Projects\EAI\kursovaZad\Debug\kursovaZad.exe
+  kursovaZad.vcxproj -> D:\Radi\MyProjects\School-Projects\EAI\kursovaZad\Debug\kursovaZad.pdb (Full PDB)
